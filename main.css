@@ -1,7 +1,19 @@
-*{
-    color: red;
+body {
+  margin: 0;
+  font-family: Poppins, sans-serif;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+main{
+    color: #793b8e;
 }
 
-.text {
-    color: blue;
+button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#title{
+    
 }
